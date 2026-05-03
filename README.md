@@ -139,7 +139,7 @@ It performs the following steps:
 To reproduce the data analysis reported in the paper, use the following resources provided in the repository:
 
 * `cifs_af3/`: structure files used as input for the distance analysis.
-* `fasta_files/`: FASTA sequences used to map structural chains to protein names.
+* `combined.fasta`: FASTA sequences used to map structural chains to protein names.
 * `results_af3/`: output distance tables generated from the structures.
 * `network.txt`: proximity-labeling enrichment table used for the correlation analysis.
 

@@ -246,6 +246,6 @@ The enrichment file must contain at least the following columns used by the R sc
 
 ## Citation
 
-If this repository is used in a publication or derivative analysis, please cite the associated paper:
+If this repository is used in a publication or derivative analysis, please cite the associated manuscript:
 
-**Structural Insights into Bromodomain-Containing Complexes from *Trypanosoma cruzi* Revealed by Proximity Labeling and Stoichiometric Space Exploration**
+**Structural Insights into Bromodomain-Containing Complexes from *Trypanosoma cruzi* Revealed by Proximity Labeling and Stoichiometric Space Exploration** (https://www.biorxiv.org/content/10.64898/2026.03.22.713544v2)

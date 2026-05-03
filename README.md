@@ -19,7 +19,7 @@ This repository contains two connected pipelines:
 
 The pipeline was used to support the analyses in:
 
-**Structural Insights into Bromodomain-Containing Complexes from *Trypanosoma cruzi* Revealed by Proximity Labeling and Stoichiometric Space Exploration**
+**Structural Insights into Bromodomain-Containing Complexes from *Trypanosoma cruzi* Revealed by Proximity Labeling and Stoichiometric Space Exploration** (https://www.biorxiv.org/content/10.64898/2026.03.22.713544v2)
 
 ---
 

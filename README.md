@@ -1,4 +1,4 @@
-## PDB/CIF Chain Distance Analyzer
+## Chain Distance to Proximity labelling Correlation Analyzer
 
 This repository provides a lightweight Python-based pipeline to quantify spatial relationships between protein chains from structural models and integrate them with downstream experimental data. The tool was developed to support proximity labeling and interactome analyses by enabling systematic comparison between structural proximity and biochemical enrichment.
 

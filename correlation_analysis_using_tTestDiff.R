@@ -13,8 +13,8 @@ condition_to_id_correspondance <- c(
   "C4B63_7g80" = "BDF8"
 )
 
-# Load data
-enrichments <- read_delim("../bdfs_enrichment/interactors_and_proximal/network.txt", delim = "\t") %>% 
+# Load enrichment data data
+enrichments <- read_delim("network.txt", delim = "\t") %>% 
   select(SOURCE, TARGET, `N: Student's T-test Difference Bait_GFP`, `N: Student's T-test Difference Bait_NLS`) %>% 
   rename(diff_GFP = `N: Student's T-test Difference Bait_GFP`,
          diff_NLS = `N: Student's T-test Difference Bait_NLS`) %>% 

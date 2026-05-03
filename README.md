@@ -78,7 +78,7 @@ Two TSV files are written to the selected output directory:
 ### Example execution
 
 ```bash
-python pdb_distance_analyzer.py cifs_af3 fasta_files/proteins.fasta --output-dir results_af3 --recursive
+python pdb_distance_analyzer.py cifs_af3 combined.fasta --output-dir results_af3 --recursive
 ```
 
 ### Command-line arguments

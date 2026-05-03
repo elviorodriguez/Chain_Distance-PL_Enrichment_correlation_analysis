@@ -37,7 +37,7 @@ Recommended input folders and files:
   * Output distance tables generated from the structure files.
   * Includes `distances_averages_*.tsv` and related summary files.
 
-* `fasta_files/`
+* `Fasta files`
 
   * FASTA files containing the protein sequences used to map structure chains to protein names.
 

@@ -132,20 +132,6 @@ It performs the following steps:
 
 * `correlation_distance_vs_enrichment.png`
 
-### Example execution
-
-Run the R script after the Python analysis has produced the summary distance table:
-
-```r
-source("analysis_pipeline.R")
-```
-
-Or, from the command line:
-
-```bash
-Rscript analysis_pipeline.R
-```
-
 ---
 
 ## Reproducing the paper analysis
